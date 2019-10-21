@@ -1,0 +1,103 @@
+Please enter the stock symbol to get data or type 'quit' to exit the program: AAPL
+JSON-formatted response:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AAPL",
+            "2. price": "240.7950",
+            "3. volume": "15016807",
+            "4. timestamp": "2019-10-21 13:48:03"
+        }
+    ]
+}
+The current price of AAPL is:  240.7950
+Please enter the stock symbol to get data or type 'quit' to exit the program: GOOGL
+JSON-formatted response:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "GOOGL",
+            "2. price": "1244.7500",
+            "3. volume": "455730",
+            "4. timestamp": "2019-10-21 13:48:28"
+        }
+    ]
+}
+The current price of GOOGL is:  1244.7500
+Please enter the stock symbol to get data or type 'quit' to exit the program: MSFT
+JSON-formatted response:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "MSFT",
+            "2. price": "137.9700",
+            "3. volume": "11676310",
+            "4. timestamp": "2019-10-21 13:49:55"
+        }
+    ]
+}
+The current price of MSFT is:  137.9700
+Please enter the stock symbol to get data or type 'quit' to exit the program: FB
+JSON-formatted response:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "FB",
+            "2. price": "189.1200",
+            "3. volume": "4916910",
+            "4. timestamp": "2019-10-21 13:50:03"
+        }
+    ]
+}
+The current price of FB is:  189.1200
+Please enter the stock symbol to get data or type 'quit' to exit the program: TSLA
+JSON-formatted response:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "TSLA",
+            "2. price": "252.6050",
+            "3. volume": "3447274",
+            "4. timestamp": "2019-10-21 13:48:13"
+        }
+    ]
+}
+The current price of TSLA is:  252.6050
+Please enter the stock symbol to get data or type 'quit' to exit the program: AMZN
+JSON-formatted response:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AMZN",
+            "2. price": "1780.6300",
+            "3. volume": "1435635",
+            "4. timestamp": "2019-10-21 13:49:14"
+        }
+    ]
+}
+The current price of AMZN is:  1780.6300
+Please enter the stock symbol to get data or type 'quit' to exit the program: quit
